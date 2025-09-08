@@ -1,0 +1,36 @@
+{
+  "Сеть": {
+    "Realtek Ethernet": "realtek-ethernet",
+    "Intel LAN": "intel-lan",
+    "Killer E2500": "killer-lan",
+    "Qualcomm Atheros": "qualcomm-atheros"
+  },
+  "WI-FI": {
+    "Intel Wi-Fi": "intel-wifi",
+    "Qualcomm Wi-Fi": "qualcomm-wifi",
+    "Broadcom Wi-Fi": "broadcom-wifi",
+    "Realtek Wi-Fi": "realtek-wifi"
+  },
+  "Звук": {
+    "Realtek HD Audio": "realtek-audio",
+    "NVIDIA HD Audio": "nvidia-hd-audio",
+    "AMD HD Audio": "amd-hd-audio",
+    "Creative Sound Blaster": "creative-sb"
+  },
+  "Видео": {
+    "NVIDIA GeForce GTX/RTX": "nvidia-driver",
+    "AMD Radeon RX": "amd-driver",
+    "Intel UHD/Iris": "intel-gpu-driver",
+    "Matrox": "matrox-driver"
+  },
+  "Чипсеты": {
+    "Intel Chipset": "intel-chipset",
+    "AMD Chipset": "amd-chipset"
+  },
+  "Оборудование": {
+    "HP Universal Print Driver": "hp-universal-print",
+    "Canon Printer Driver": "canon-printer",
+    "Epson Printer Driver": "epson-printer",
+    "Brother Printer Driver": "brother-printer"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Браузеры": {
+    "Google Chrome": "Google.Chrome",
+    "Mozilla Firefox": "Mozilla.Firefox",
+    "Opera": "Opera.Opera",
+    "Microsoft Edge": "Microsoft.Edge",
+    "Brave": "Brave.Brave",
+    "Yandex Browser": "Yandex.Browser"
+  },
+  "Прикладное": {
+    "LibreOffice": "TheDocumentFoundation.LibreOffice",
+    "MS Office 2016": "Microsoft.Office",
+    "MS Office 2019": "Microsoft.Office",
+    "OnlyOffice": "ONLYOFFICE.DesktopEditors",
+    "WPS Office": "Kingsoft.WPSOffice"
+  },
+  "Мессенджеры": {
+    "Telegram": "Telegram.TelegramDesktop",
+    "WhatsApp": "WhatsApp.WhatsApp",
+    "Discord": "Discord.Discord",
+    "Skype": "Microsoft.Skype",
+    "Viber": "Viber.Viber"
+  },
+  "Медиа": {
+    "VLC Media Player": "VideoLAN.VLC",
+    "KMPlayer": "PandoraTV.KMPlayer",
+    "PotPlayer": "Daum.PotPlayer",
+    "Spotify": "Spotify.Spotify",
+    "iTunes": "Apple.iTunes"
+  },
+  "Утилиты": {
+    "7-Zip": "7zip.7zip",
+    "WinRAR": "RARLab.WinRAR",
+    "qBittorrent": "qBittorrent.qBittorrent",
+    "Notepad++": "Notepad++.Notepad++",
+    "Visual Studio Code": "Microsoft.VisualStudioCode",
+    "OBS Studio": "OBSProject.OBSStudio",
+    "TeamViewer": "TeamViewer.TeamViewer"
+  },
+  "Антивирусы": {
+    "Avast": "Avast.AvastFree",
+    "Kaspersky": "Kaspersky.Kaspersky",
+    "AVG": "AVG.AVG",
+    "Avira": "Avira.Avira",
+    "Bitdefender": "Bitdefender.Bitdefender"
+  }
+}

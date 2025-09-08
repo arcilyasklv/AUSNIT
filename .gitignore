@@ -1,0 +1,19 @@
+# Виртуальное окружение
+/venv
+/.venv
+
+# Папки PyInstaller
+/build/
+/dist/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Файлы логов и кэша программы
+error_log.txt
+ausnit_boot_cache.json
+
+# Файлы IDE (если используете)
+.vscode/
+.idea/

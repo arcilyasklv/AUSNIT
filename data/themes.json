@@ -1,0 +1,23 @@
+{
+  "day": {
+    "appearance": "light",
+    "bg": "#f0f0f0",
+    "fg": "#202020"
+  },
+  "night": {
+    "appearance": "dark",
+    "bg": "#121212",
+    "fg": "#e0e0e0"
+  },
+  "accents": {
+    "red": "#e53935",
+    "orange": "#fb8c00",
+    "yellow": "#fdd835",
+    "green": "#43a047",
+    "blue": "#1e88e5",
+    "indigo": "#3949ab",
+    "violet": "#8e24aa",
+    "cyan": "#00acc1",
+    "pink": "#d81b60"
+  }
+}

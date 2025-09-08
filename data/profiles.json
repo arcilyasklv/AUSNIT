@@ -1,0 +1,6 @@
+{
+  "Работа": ["Google.Chrome", "Microsoft.Office", "Telegram.TelegramDesktop", "Notepad++.Notepad++"],
+  "Учёба": ["Mozilla.Firefox", "TheDocumentFoundation.LibreOffice", "Discord.Discord", "VLC"],
+  "Игры": ["Discord.Discord", "Steam.Steam", "OBSProject.OBSStudio"],
+  "Минимум": ["Google.Chrome", "7zip.7zip"]
+}
